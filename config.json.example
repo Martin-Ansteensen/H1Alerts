@@ -1,0 +1,21 @@
+{    
+"servers":{
+           "server102":{"url":"https://example.com", "status": 2, "error":"", "down":""}, 
+            "server109":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server110":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server111":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server112":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server113":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server114":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server116":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server117":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server118":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server120":{"url":"https://example.com", "status": 2, "error":"", "down":""},
+            "server121":{"url":"https://example.com", "status": 2, "error":"", "down":""} },
+"settings":{ 
+	    "timeoutMargin": 1, 
+	    "offlineMargin": 60,
+	    "mattermostUrl": "https://mattermost.example.com"}    
+}
+
+
